@@ -30,7 +30,7 @@ A powerful and flexible Laravel-based RESTful API for managing car listings, dea
 ### 1. Clone the repo
 
 bash
-git clone https://github.com/your-username/carhub-api.git
+git clone https://github.com/KaramNassar/carhub-api.git
 cd carhub-api
 
 2. Install dependencies
